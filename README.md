@@ -21,7 +21,7 @@ The model is trained to classify MRI images into 4 distinct categories based on 
 * **Language:** Python 3.8+
 * **Deep Learning Frameworks:** TensorFlow 2.x, Keras [7]
 * **Image Processing:** OpenCV, NumPy [8, 9]
-* **Environment:** Jupyter Notebook [3]
+* **Environment:** Jupyter Notebook [3] or CMD Terminal
 
 ## How to Use
 1. Clone the repository and navigate to the project folder.
